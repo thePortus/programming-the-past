@@ -6,6 +6,12 @@ HIS4936 @ The University of South Florida
 
 ---
 
+Launch course workbooks in-browser in Binder!
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thePortus/programming-the-past/master)
+
+---
+
 [David J. Thomas](mailto:dave.a.base@gmail.com), [thePort.us](http://thePort.us)<br />
 Instructor of Ancient History and Digital Humanities<br />
 Department of History<br />
