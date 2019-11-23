@@ -1,0 +1,9 @@
+.center-text {
+  text-align: center;
+  vertical-align: center;
+}
+
+.center-element {
+  margin-left: auto;
+  margin-right: auto;
+}
