@@ -17,6 +17,10 @@ Launch course workbooks in-browser in Binder!
 
 ---
 
+See the [GitHub Repository Here](https://github.com/thePortus/programming-the-past)
+
+---
+
 [David J. Thomas](mailto:dave.a.base@gmail.com), [thePort.us](http://thePort.us)<br />
 Instructor of Ancient History and Digital Humanities<br />
 Department of History<br />
