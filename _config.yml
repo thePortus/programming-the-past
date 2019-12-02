@@ -7,10 +7,7 @@ relative_links:
   collections: true
 include:
   - setup.md
-# built in default GitHub pages theme disabled
-# theme: jekyll-theme-dinky
-# visit https://jekyllthemes.org for other remote themes
-remote_theme: LeNPaul/Millennial
+remote_theme: thePortus/Jekyll-Theme-Millennial
 source: ./pages
 collections_dir: ./pages
 includes_dir: _includes
