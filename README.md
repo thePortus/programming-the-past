@@ -22,3 +22,11 @@ Department of History<br />
 [University of South Florida](https://github.com/usf-portal)
 
 ---
+
+Configuation Files
+```
+_config.yml
+_data/navigation.yml
+_data/authors.yml
+
+```

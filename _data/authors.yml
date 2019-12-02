@@ -1,0 +1,14 @@
+David Thomas:
+  name        : David Thomas
+  bio         : Ancient historian and digitally driven scholar teaching at the University of South Florida.
+  avatar      : "/assets/images/authors/david-thomas.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:dave.a.base@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "http://theport.us"
+    - label: "Github"
+      icon: "fab fa-fw fa-github-square"
+      url: "https://github.com/thePortus"
