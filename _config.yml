@@ -7,7 +7,7 @@ relative_links:
   collections: true
 include:
   - setup.md
-remote_theme: thePortus/Jekyll-Theme-Millennial
+remote_theme: DigitalMindCH/gridster-jekyll-theme
 source: ./pages
 collections_dir: ./pages
 includes_dir: _includes
