@@ -5,12 +5,21 @@
 ## General Course Setup
 
 1. Install [Python3](https://python.org)
+    1. Open a command line prompt and type `pip install flake8`
 2. Install [Git-scm](https://git-scm.com/)
 3. Install [Atom](https://atom.io)
     1. After install open the 'File' menu and choose 'Preferences'
     2. Then select the 'Install' tab
-    3. Search for and install the following addons...
-        1.  
+    3. Search for and install the following addons (if they are not already installed)...
+        1. `file-icons`
+        2. `git-plus`
+        3. `highlight-selected`
+        4. `language-csv`
+        5. `language-markdown`
+        6. `linter`
+        7. `linter-flake8`
+        8. `platformio-ide-terminal`
+        9. `tree-view-git-status`
 
 ---
 
