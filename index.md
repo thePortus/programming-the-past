@@ -1,8 +1,13 @@
-# programming-the-past
-
 Introduction to programming for historians. Using the power of programming to explore the past in brand new ways.
 
 HIS4936 @ The University of South Florida
+
+<figure>
+    <p class="center-text">
+        <a href="{{ site.baseurl }}/index.html">Home</a> |
+        <a href="{{ site.baseurl }}/pages/setup.html">Setup</a> |
+    </p>
+</figure>
 
 ---
 

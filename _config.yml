@@ -1,14 +1,15 @@
-title: Programming the Past Course Workbook
+title: Programming the Past Workbook
 description: Coursebook for HIS4936, Programming the Past, at the University of South Florida
+repository: thePortus/programming-the-past
+include:
+  - setup.md
 plugins:
   - jekyll-relative-links
   - jekyll-include-cache
 relative_links:
   enabled: true
   collections: true
-include:
-  - setup.md
-remote_theme: mmistakes/minimal-mistakes
 source: ./pages
 collections_dir: ./pages
 includes_dir: _includes
+remote_theme: mmistakes/minimal-mistakes
