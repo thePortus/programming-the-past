@@ -10,7 +10,7 @@ include:
 # built in default GitHub pages theme disabled
 # theme: jekyll-theme-dinky
 # visit https://jekyllthemes.org for other remote themes
-remote_theme: murraco/jekyll-theme-minimal-resume
+remote_theme: LeNPaul/Millennial
 source: ./pages
 collections_dir: ./pages
 includes_dir: _includes
