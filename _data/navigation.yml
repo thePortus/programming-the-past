@@ -1,5 +1,5 @@
 main:
   - title: "Home"
-        url: /
+    url: /
   - title: "Setup"
     url: /pages/setup.html
