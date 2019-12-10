@@ -45,5 +45,5 @@ pip install -r requirements.txt
 jupyter notebook
 
 ```
-
+ 
 A window should launch inside your default browser allowing you to navigate and open notebooks.
