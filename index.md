@@ -3,7 +3,7 @@
 
 Course workbook and notebooks for HIS4936 @ The University of South Florida
 
-![Splash Image](/assets/images/splash-image.png)
+![Splash Image]({{ site.baseurl }}/assets/images/splash-image.png)
 
 ---
 
