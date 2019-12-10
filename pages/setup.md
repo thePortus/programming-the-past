@@ -1,5 +1,7 @@
 # Setup
 
+![Splash Image]({{ site.baseurl }}/assets/images/splash-image.png)
+
 ---
 
 ## General Course Setup
