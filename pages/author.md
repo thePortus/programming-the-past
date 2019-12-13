@@ -6,7 +6,7 @@ permalink: /about/
 collection: top_pages
 ---
 
-![Splash Image]({{ site.baseurl }}/assets/images/david-thomas.jpg)
+![Splash Image]({{ site.baseurl }}/assets/images/authors/david-thomas.jpg)
 
 ---
 
