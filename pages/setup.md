@@ -1,9 +1,10 @@
 ---
 title: Setup
 layout: collection
+permalink: /setup/
+collection: pages
+entries_layout: grid
 ---
-
-# Setup
 
 ![Splash Image]({{ site.baseurl }}/assets/images/splash-image.png)
 
