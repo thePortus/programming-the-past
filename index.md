@@ -1,3 +1,11 @@
+---
+title: Programming the Past
+author: David Thomas
+layout: collection
+permalink: /404.html
+collection: top_pages
+---
+
 Course workbook and notebooks for HIS4936 @ The University of South Florida
 
 ![Splash Image]({{ site.baseurl }}/assets/images/splash-image.png)

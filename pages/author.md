@@ -3,8 +3,7 @@ title: About the Author
 author: David J. Thomas
 layout: collection
 permalink: /about/
-collection: pages
-entries_layout: grid
+collection: top_pages
 ---
 
 ![Splash Image]({{ site.baseurl }}/assets/images/david-thomas.jpg)
