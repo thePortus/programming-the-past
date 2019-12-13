@@ -43,29 +43,14 @@ Files
 
 ```zsh
 
-# configuration files
-_config.yml
-_data/navigation.yml
-_data/authors.yml
-
-# custom files
-_includes/nav.html # navbar, change to change pages on the navbar
-assets/css/custom.css # put any custom css you want here
-
 # webpage files
+_config.yml # main configuation file
+_data/navigation.yml # set up the main and sidebar nav menus
+_data/authors.yml # set up author(s) information
+assets/css/custom.css # put any custom css you want here
 /pages # The directory where you should put any other pages you want to make, all saved as Markdown (.md) files
-
-
-```
-
-Folders
-
-```zsh
-
 /_data # for configuration files (.yml) on authors and navigation
 /_includes # html templates to be added to each page
-/pages # every Markdown (.md) file for your site
-/assets/css # custom .css file(s) you want to style the look of your page
 /assets/data # data you want to link to for users to download from the webpage
 /assets/images # images you want to display or link to in your pages or notebooks
 /notebooks # all of the Jupyter Notebooks for this course and their files
