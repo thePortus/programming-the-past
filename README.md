@@ -54,7 +54,7 @@ assets/css/custom.css # put any custom css you want here
 
 # webpage files
 /index.md # The landing page of your website at https://your-username.github.io/your-repo-name
-/pages # The directory where you should put any other pages you want to make, all saved as Markdown (.md) files
+/_pages # The directory where you should put any other pages you want to make, all saved as Markdown (.md) files
 
 
 ```
@@ -65,10 +65,11 @@ Folders
 
 /_data # for configuration files (.yml) on authors and navigation
 /_includes # html templates to be added to each page
+/_pages # every Markdown (.md) file for your site
 /assets/css # custom .css file(s) you want to style the look of your page
 /assets/data # data you want to link to for users to download from the webpage
 /assets/images # images you want to display or link to in your pages or notebooks
 /notebooks # all of the Jupyter Notebooks for this course and their files
-/pages # every Markdown (.md) file for your site
+
 
 ```

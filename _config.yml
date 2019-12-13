@@ -2,6 +2,7 @@ title: Programming the Past Workbook
 description: Coursebook for HIS4936, Programming the Past, at the University of South Florida
 repository: thePortus/programming-the-past
 include:
+  - 404.md
   - setup.md
 plugins:
   - jekyll-relative-links
@@ -9,7 +10,7 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-source: ./pages
-collections_dir: ./pages
+source: _pages
+collections_dir: _pages
 includes_dir: _includes
 remote_theme: mmistakes/minimal-mistakes
