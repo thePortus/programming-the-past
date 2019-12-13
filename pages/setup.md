@@ -1,5 +1,6 @@
 ---
-title: Setup
+title: Setting Up for this Course
+author: David J. Thomas
 layout: collection
 permalink: /setup/
 collection: pages

@@ -2,4 +2,6 @@ main:
   - title: "Home"
     url: /
   - title: "Setup"
-    url: /setup.html
+    url: /setup
+  - title: "About"
+    url: /about
