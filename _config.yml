@@ -10,7 +10,7 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-source: _pages
-collections_dir: _pages
+source: ./_pages
+collections_dir: ./_pages
 includes_dir: _includes
 remote_theme: mmistakes/minimal-mistakes
