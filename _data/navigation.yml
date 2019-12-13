@@ -5,3 +5,11 @@ main:
     url: /setup
   - title: "About"
     url: /about
+
+sidebar_docs:
+  - title: Starting Info
+    children:
+      - title: "Setup"
+        url: /setup
+      - title: "About"
+        url: /about

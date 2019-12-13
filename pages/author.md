@@ -4,6 +4,8 @@ author: David J. Thomas
 layout: collection
 permalink: /about/
 collection: top_pages
+sidebar:
+  nav: "sidebar_docs"
 ---
 
 ![Splash Image]({{ site.baseurl }}/assets/images/authors/david-thomas.jpg)

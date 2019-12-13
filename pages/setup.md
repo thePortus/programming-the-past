@@ -4,6 +4,8 @@ author: David J. Thomas
 layout: collection
 permalink: /setup/
 collection: top_pages
+sidebar:
+  nav: "sidebar_docs"
 ---
 
 ![Splash Image]({{ site.baseurl }}/assets/images/splash-image.png)

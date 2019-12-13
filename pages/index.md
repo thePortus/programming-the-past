@@ -4,6 +4,8 @@ author: David Thomas
 layout: collection
 permalink: /
 collection: top_pages
+sidebar:
+  nav: "sidebar_docs"
 ---
 
 Course workbook and notebooks for HIS4936 @ The University of South Florida
