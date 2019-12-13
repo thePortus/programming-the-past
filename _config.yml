@@ -3,6 +3,7 @@ description: Coursebook for HIS4936, Programming the Past, at the University of 
 repository: thePortus/programming-the-past
 include:
   - 404.md
+  - index.md
   - author.md
   - setup.md
 plugins:

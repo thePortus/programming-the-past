@@ -53,7 +53,6 @@ _includes/nav.html # navbar, change to change pages on the navbar
 assets/css/custom.css # put any custom css you want here
 
 # webpage files
-/index.md # The landing page of your website at https://your-username.github.io/your-repo-name
 /pages # The directory where you should put any other pages you want to make, all saved as Markdown (.md) files
 
 

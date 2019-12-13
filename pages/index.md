@@ -2,7 +2,7 @@
 title: Programming the Past
 author: David Thomas
 layout: collection
-permalink: /404.html
+permalink: /
 collection: top_pages
 ---
 
