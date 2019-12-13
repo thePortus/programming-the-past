@@ -5,7 +5,7 @@ layout: collection
 permalink: /about/
 collection: top_pages
 sidebar:
-  nav: "sidebar_docs"
+  nav: "sidebar_nav"
 ---
 
 ![Splash Image]({{ site.baseurl }}/assets/images/authors/david-thomas.jpg)
