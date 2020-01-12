@@ -1,0 +1,671 @@
+year,population,countryLabel,number_of_chosen_sources,a_source_of_those_chosen
+1790,184139,New Jersey,1,
+1800,211149,New Jersey,1,
+1810,245562,New Jersey,1,
+1820,277575,New Jersey,1,
+1820,1049458,Pennsylvania,1,
+1820,1444,Wisconsin,1,
+1830,320823,New Jersey,1,
+1830,737987,North Carolina,1,
+1830,1348233,Pennsylvania,1,
+1830,3635,Wisconsin,1,
+1840,373306,New Jersey,1,
+1840,1724033,Pennsylvania,1,
+1840,30945,Wisconsin,1,
+1850,92597,California,1,
+1850,489555,New Jersey,1,
+1850,305391,Wisconsin,1,
+1860,379994,California,1,
+1860,672035,New Jersey,1,
+1860,4837,South Dakota,1,
+1860,775881,Wisconsin,1,
+1870,560247,California,1,
+1870,906096,New Jersey,1,
+1870,11776,South Dakota,1,
+1870,1054670,Wisconsin,1,
+1870,9118,Wyoming,1,
+1880,1262794,Alabama,1,t1052736655
+1880,864694,California,1,
+1880,1131116,New Jersey,1,
+1880,98268,South Dakota,1,
+1880,1315457,Wisconsin,1,
+1880,20789,Wyoming,1,
+1890,1213398,California,1,
+1890,1444933,New Jersey,1,
+1890,348600,South Dakota,1,
+1890,1693330,Wisconsin,1,
+1890,62555,Wyoming,1,
+1900,1487526.5,California,2,
+1900,154001,Hawaii,1,
+1900,1883834.5,New Jersey,2,
+1900,403000,South Dakota,1,
+1900,92531,Wyoming,1,
+1901,131000,Arizona,1,
+1901,1550000,California,1,
+1901,1889000,New Jersey,1,
+1902,1623000,California,1,
+1902,1917000,New Jersey,1,
+1902,454000,Oregon,1,
+1903,1702000,California,1,
+1903,1969000,New Jersey,1,
+1904,1792000,California,1,
+1905,1893000,California,1,
+1906,1976000,California,1,
+1907,2054000,California,1,
+1907,2314000,New Jersey,1,
+1908,2161000,California,1,
+1908,2403000,New Jersey,1,
+1909,2282000,California,1,
+1910,2138093,Alabama,1,http://www.wikidata.org/entity/Q39825
+1910,1574449,Arkansas,1,http://www.wikidata.org/entity/Q39825
+1910,2377549,California,1,http://www.wikidata.org/entity/Q39825
+1910,799024,Colorado,1,http://www.wikidata.org/entity/Q39825
+1910,1114756,Connecticut,1,http://www.wikidata.org/entity/Q39825
+1910,202322,Delaware,1,http://www.wikidata.org/entity/Q39825
+1910,752619,Florida,1,http://www.wikidata.org/entity/Q39825
+1910,2609121,Georgia,1,http://www.wikidata.org/entity/Q39825
+1910,191909,Hawaii,1,http://www.wikidata.org/entity/Q39825
+1910,325594,Idaho,1,http://www.wikidata.org/entity/Q39825
+1910,5638591,Illinois,1,http://www.wikidata.org/entity/Q39825
+1910,2700876,Indiana,1,http://www.wikidata.org/entity/Q39825
+1910,2224771,Iowa,1,http://www.wikidata.org/entity/Q39825
+1910,1690949,Kansas,1,http://www.wikidata.org/entity/Q39825
+1910,2289905,Kentucky,1,http://www.wikidata.org/entity/Q39825
+1910,1656388,Louisiana,1,http://www.wikidata.org/entity/Q39825
+1910,742371,Maine,1,http://www.wikidata.org/entity/Q39825
+1910,1295346,Maryland,1,http://www.wikidata.org/entity/Q39825
+1910,3366416,Massachusetts,1,http://www.wikidata.org/entity/Q39825
+1910,2810173,Michigan,1,http://www.wikidata.org/entity/Q39825
+1910,2075708,Minnesota,1,http://www.wikidata.org/entity/Q39825
+1910,1797114,Mississippi,1,http://www.wikidata.org/entity/Q39825
+1910,3293335,Missouri,1,http://www.wikidata.org/entity/Q39825
+1910,376053,Montana,1,http://www.wikidata.org/entity/Q39825
+1910,1192214,Nebraska,1,http://www.wikidata.org/entity/Q39825
+1910,81875,Nevada,1,http://www.wikidata.org/entity/Q39825
+1910,430572,New Hampshire,1,http://www.wikidata.org/entity/Q39825
+1910,2537167,New Jersey,1,http://www.wikidata.org/entity/Q39825
+1910,327301,New Mexico,1,http://www.wikidata.org/entity/Q39825
+1910,9113614,New York,1,http://www.wikidata.org/entity/Q39825
+1910,2206287,North Carolina,1,http://www.wikidata.org/entity/Q39825
+1910,577056,North Dakota,1,http://www.wikidata.org/entity/Q39825
+1910,4767121,Ohio,1,http://www.wikidata.org/entity/Q39825
+1910,1657155,Oklahoma,1,http://www.wikidata.org/entity/Q39825
+1910,672765,Oregon,1,http://www.wikidata.org/entity/Q39825
+1910,7665111,Pennsylvania,1,http://www.wikidata.org/entity/Q39825
+1910,542610,Rhode Island,1,http://www.wikidata.org/entity/Q39825
+1910,1515400,South Carolina,1,http://www.wikidata.org/entity/Q39825
+1910,583888,South Dakota,1,http://www.wikidata.org/entity/Q39825
+1910,2184789,Tennessee,1,http://www.wikidata.org/entity/Q39825
+1910,3896542,Texas,1,http://www.wikidata.org/entity/Q39825
+1910,373351,Utah,1,http://www.wikidata.org/entity/Q39825
+1910,355956,Vermont,1,http://www.wikidata.org/entity/Q39825
+1910,2061612,Virginia,1,http://www.wikidata.org/entity/Q39825
+1910,1141990,Washington,1,http://www.wikidata.org/entity/Q39825
+1910,1221119,West Virginia,1,http://www.wikidata.org/entity/Q39825
+1910,2333860,Wisconsin,1,http://www.wikidata.org/entity/Q39825
+1910,145965,Wyoming,1,http://www.wikidata.org/entity/Q39825
+1911,2534000,California,1,
+1912,2668000,California,1,
+1913,2811000,California,1,
+1913,2729000,New Jersey,1,
+1914,2934000,California,1,
+1915,3008000,California,1,
+1916,3071000,California,1,
+1917,3171000,California,1,
+1918,3262000,California,1,
+1919,3339000,California,1,
+1919,606000,South Dakota,1,
+1920,2348174,Alabama,1,http://www.wikidata.org/entity/Q39825
+1920,334162,Arizona,1,http://www.wikidata.org/entity/Q39825
+1920,1752204,Arkansas,1,http://www.wikidata.org/entity/Q39825
+1920,3426861,California,1,http://www.wikidata.org/entity/Q39825
+1920,939629,Colorado,1,http://www.wikidata.org/entity/Q39825
+1920,1380631,Connecticut,1,http://www.wikidata.org/entity/Q39825
+1920,223003,Delaware,1,http://www.wikidata.org/entity/Q39825
+1920,968470,Florida,1,http://www.wikidata.org/entity/Q39825
+1920,2895832,Georgia,1,http://www.wikidata.org/entity/Q39825
+1920,255912,Hawaii,1,http://www.wikidata.org/entity/Q39825
+1920,431866,Idaho,1,http://www.wikidata.org/entity/Q39825
+1920,6485280,Illinois,1,http://www.wikidata.org/entity/Q39825
+1920,2930390,Indiana,1,http://www.wikidata.org/entity/Q39825
+1920,2404021,Iowa,1,http://www.wikidata.org/entity/Q39825
+1920,1769257,Kansas,1,http://www.wikidata.org/entity/Q39825
+1920,2416630,Kentucky,1,http://www.wikidata.org/entity/Q39825
+1920,1798509,Louisiana,1,http://www.wikidata.org/entity/Q39825
+1920,768014,Maine,1,http://www.wikidata.org/entity/Q39825
+1920,1449661,Maryland,1,http://www.wikidata.org/entity/Q39825
+1920,3852356,Massachusetts,1,http://www.wikidata.org/entity/Q39825
+1920,3668412,Michigan,1,http://www.wikidata.org/entity/Q39825
+1920,2387125,Minnesota,1,http://www.wikidata.org/entity/Q39825
+1920,1790618,Mississippi,1,http://www.wikidata.org/entity/Q39825
+1920,3404055,Missouri,1,http://www.wikidata.org/entity/Q39825
+1920,548889,Montana,1,http://www.wikidata.org/entity/Q39825
+1920,1296372,Nebraska,1,http://www.wikidata.org/entity/Q39825
+1920,77407,Nevada,1,http://www.wikidata.org/entity/Q39825
+1920,443083,New Hampshire,1,http://www.wikidata.org/entity/Q39825
+1920,3155900,New Jersey,1,http://www.wikidata.org/entity/Q39825
+1920,360350,New Mexico,1,http://www.wikidata.org/entity/Q39825
+1920,10385227,New York,1,http://www.wikidata.org/entity/Q39825
+1920,2559123,North Carolina,1,http://www.wikidata.org/entity/Q39825
+1920,646872,North Dakota,1,http://www.wikidata.org/entity/Q39825
+1920,5759394,Ohio,1,http://www.wikidata.org/entity/Q39825
+1920,2028283,Oklahoma,1,http://www.wikidata.org/entity/Q39825
+1920,783389,Oregon,1,http://www.wikidata.org/entity/Q39825
+1920,8720017,Pennsylvania,1,http://www.wikidata.org/entity/Q39825
+1920,604397,Rhode Island,1,http://www.wikidata.org/entity/Q39825
+1920,1683724,South Carolina,1,http://www.wikidata.org/entity/Q39825
+1920,636547,South Dakota,1,http://www.wikidata.org/entity/Q39825
+1920,2337885,Tennessee,1,http://www.wikidata.org/entity/Q39825
+1920,4663228,Texas,1,http://www.wikidata.org/entity/Q39825
+1920,449396,Utah,1,http://www.wikidata.org/entity/Q39825
+1920,352428,Vermont,1,http://www.wikidata.org/entity/Q39825
+1920,2309187,Virginia,1,http://www.wikidata.org/entity/Q39825
+1920,1356621,Washington,1,http://www.wikidata.org/entity/Q39825
+1920,1463701,West Virginia,1,http://www.wikidata.org/entity/Q39825
+1920,2632067,Wisconsin,1,http://www.wikidata.org/entity/Q39825
+1920,194402,Wyoming,1,http://www.wikidata.org/entity/Q39825
+1930,2646248,Alabama,1,http://www.wikidata.org/entity/Q39825
+1930,435573,Arizona,1,http://www.wikidata.org/entity/Q39825
+1930,1854482,Arkansas,1,http://www.wikidata.org/entity/Q39825
+1930,5677251,California,1,http://www.wikidata.org/entity/Q39825
+1930,1035791,Colorado,1,http://www.wikidata.org/entity/Q39825
+1930,1606903,Connecticut,1,http://www.wikidata.org/entity/Q39825
+1930,238380,Delaware,1,http://www.wikidata.org/entity/Q39825
+1930,1468211,Florida,1,http://www.wikidata.org/entity/Q39825
+1930,2908506,Georgia,1,http://www.wikidata.org/entity/Q39825
+1930,368336,Hawaii,1,http://www.wikidata.org/entity/Q39825
+1930,445032,Idaho,1,http://www.wikidata.org/entity/Q39825
+1930,7630654,Illinois,1,http://www.wikidata.org/entity/Q39825
+1930,3238503,Indiana,1,http://www.wikidata.org/entity/Q39825
+1930,2470939,Iowa,1,http://www.wikidata.org/entity/Q39825
+1930,1880999,Kansas,1,http://www.wikidata.org/entity/Q39825
+1930,2614589,Kentucky,1,http://www.wikidata.org/entity/Q39825
+1930,2101593,Louisiana,1,http://www.wikidata.org/entity/Q39825
+1930,797423,Maine,1,http://www.wikidata.org/entity/Q39825
+1930,1631526,Maryland,1,http://www.wikidata.org/entity/Q39825
+1930,4249614,Massachusetts,1,http://www.wikidata.org/entity/Q39825
+1930,4842325,Michigan,1,http://www.wikidata.org/entity/Q39825
+1930,2563953,Minnesota,1,http://www.wikidata.org/entity/Q39825
+1930,2009821,Mississippi,1,http://www.wikidata.org/entity/Q39825
+1930,3629367,Missouri,1,http://www.wikidata.org/entity/Q39825
+1930,537606,Montana,1,http://www.wikidata.org/entity/Q39825
+1930,1377963,Nebraska,1,http://www.wikidata.org/entity/Q39825
+1930,91058,Nevada,1,http://www.wikidata.org/entity/Q39825
+1930,465293,New Hampshire,1,http://www.wikidata.org/entity/Q39825
+1930,4041334,New Jersey,1,http://www.wikidata.org/entity/Q39825
+1930,423317,New Mexico,1,http://www.wikidata.org/entity/Q39825
+1930,12588066,New York,1,http://www.wikidata.org/entity/Q39825
+1930,3170276,North Carolina,1,http://www.wikidata.org/entity/Q39825
+1930,680845,North Dakota,1,http://www.wikidata.org/entity/Q39825
+1930,6646697,Ohio,1,http://www.wikidata.org/entity/Q39825
+1930,2396040,Oklahoma,1,http://www.wikidata.org/entity/Q39825
+1930,953786,Oregon,1,http://www.wikidata.org/entity/Q39825
+1930,9631350,Pennsylvania,1,http://www.wikidata.org/entity/Q39825
+1930,687497,Rhode Island,1,http://www.wikidata.org/entity/Q39825
+1930,1738765,South Carolina,1,http://www.wikidata.org/entity/Q39825
+1930,692849,South Dakota,1,http://www.wikidata.org/entity/Q39825
+1930,2616556,Tennessee,1,http://www.wikidata.org/entity/Q39825
+1930,5824715,Texas,1,http://www.wikidata.org/entity/Q39825
+1930,507847,Utah,1,http://www.wikidata.org/entity/Q39825
+1930,359611,Vermont,1,http://www.wikidata.org/entity/Q39825
+1930,2421851,Virginia,1,http://www.wikidata.org/entity/Q39825
+1930,1563396,Washington,1,http://www.wikidata.org/entity/Q39825
+1930,1729205,West Virginia,1,http://www.wikidata.org/entity/Q39825
+1930,2939006,Wisconsin,1,http://www.wikidata.org/entity/Q39825
+1930,225565,Wyoming,1,http://www.wikidata.org/entity/Q39825
+1940,2832961,Alabama,1,http://www.wikidata.org/entity/Q39825
+1940,499261,Arizona,1,http://www.wikidata.org/entity/Q39825
+1940,1949387,Arkansas,1,http://www.wikidata.org/entity/Q39825
+1940,6907387,California,1,http://www.wikidata.org/entity/Q39825
+1940,1123296,Colorado,1,http://www.wikidata.org/entity/Q39825
+1940,1709242,Connecticut,1,http://www.wikidata.org/entity/Q39825
+1940,266505,Delaware,1,http://www.wikidata.org/entity/Q39825
+1940,1897414,Florida,1,http://www.wikidata.org/entity/Q39825
+1940,3123723,Georgia,1,http://www.wikidata.org/entity/Q39825
+1940,423330,Hawaii,1,http://www.wikidata.org/entity/Q39825
+1940,524873,Idaho,1,http://www.wikidata.org/entity/Q39825
+1940,7897241,Illinois,1,http://www.wikidata.org/entity/Q39825
+1940,3427796,Indiana,1,http://www.wikidata.org/entity/Q39825
+1940,2538268,Iowa,1,http://www.wikidata.org/entity/Q39825
+1940,1801028,Kansas,1,http://www.wikidata.org/entity/Q39825
+1940,2845627,Kentucky,1,http://www.wikidata.org/entity/Q39825
+1940,2363880,Louisiana,1,http://www.wikidata.org/entity/Q39825
+1940,847226,Maine,1,http://www.wikidata.org/entity/Q39825
+1940,1821244,Maryland,1,http://www.wikidata.org/entity/Q39825
+1940,4316721,Massachusetts,1,http://www.wikidata.org/entity/Q39825
+1940,5256106,Michigan,1,http://www.wikidata.org/entity/Q39825
+1940,2792300,Minnesota,1,http://www.wikidata.org/entity/Q39825
+1940,2183796,Mississippi,1,http://www.wikidata.org/entity/Q39825
+1940,3784664,Missouri,1,http://www.wikidata.org/entity/Q39825
+1940,559456,Montana,1,http://www.wikidata.org/entity/Q39825
+1940,1315834,Nebraska,1,http://www.wikidata.org/entity/Q39825
+1940,110247,Nevada,1,http://www.wikidata.org/entity/Q39825
+1940,491524,New Hampshire,1,http://www.wikidata.org/entity/Q39825
+1940,4160165,New Jersey,1,http://www.wikidata.org/entity/Q39825
+1940,531818,New Mexico,1,http://www.wikidata.org/entity/Q39825
+1940,13479142,New York,1,http://www.wikidata.org/entity/Q39825
+1940,3571623,North Carolina,1,http://www.wikidata.org/entity/Q39825
+1940,641935,North Dakota,1,http://www.wikidata.org/entity/Q39825
+1940,6907612,Ohio,1,http://www.wikidata.org/entity/Q39825
+1940,2336434,Oklahoma,1,http://www.wikidata.org/entity/Q39825
+1940,1089684,Oregon,1,http://www.wikidata.org/entity/Q39825
+1940,9900180,Pennsylvania,1,http://www.wikidata.org/entity/Q39825
+1940,713346,Rhode Island,1,http://www.wikidata.org/entity/Q39825
+1940,1899804,South Carolina,1,http://www.wikidata.org/entity/Q39825
+1940,642961,South Dakota,1,http://www.wikidata.org/entity/Q39825
+1940,2915841,Tennessee,1,http://www.wikidata.org/entity/Q39825
+1940,6414824,Texas,1,http://www.wikidata.org/entity/Q39825
+1940,550310,Utah,1,http://www.wikidata.org/entity/Q39825
+1940,359231,Vermont,1,http://www.wikidata.org/entity/Q39825
+1940,2677773,Virginia,1,http://www.wikidata.org/entity/Q39825
+1940,1736191,Washington,1,http://www.wikidata.org/entity/Q39825
+1940,1901974,West Virginia,1,http://www.wikidata.org/entity/Q39825
+1940,3137587,Wisconsin,1,http://www.wikidata.org/entity/Q39825
+1940,250742,Wyoming,1,http://www.wikidata.org/entity/Q39825
+1950,3061743,Alabama,1,http://www.wikidata.org/entity/Q39825
+1950,749587,Arizona,1,http://www.wikidata.org/entity/Q39825
+1950,1909511,Arkansas,1,http://www.wikidata.org/entity/Q39825
+1950,10586223,California,1,http://www.wikidata.org/entity/Q39825
+1950,1325089,Colorado,1,http://www.wikidata.org/entity/Q39825
+1950,2007280,Connecticut,1,http://www.wikidata.org/entity/Q39825
+1950,318085,Delaware,1,http://www.wikidata.org/entity/Q39825
+1950,2771305,Florida,1,http://www.wikidata.org/entity/Q39825
+1950,3444578,Georgia,1,http://www.wikidata.org/entity/Q39825
+1950,499794,Hawaii,1,http://www.wikidata.org/entity/Q39825
+1950,588637,Idaho,1,http://www.wikidata.org/entity/Q39825
+1950,8712176,Illinois,1,http://www.wikidata.org/entity/Q39825
+1950,3934224,Indiana,1,http://www.wikidata.org/entity/Q39825
+1950,2621073,Iowa,1,http://www.wikidata.org/entity/Q39825
+1950,1905299,Kansas,1,http://www.wikidata.org/entity/Q39825
+1950,2944806,Kentucky,1,http://www.wikidata.org/entity/Q39825
+1950,2683516,Louisiana,1,http://www.wikidata.org/entity/Q39825
+1950,913774,Maine,1,http://www.wikidata.org/entity/Q39825
+1950,2343001,Maryland,1,http://www.wikidata.org/entity/Q39825
+1950,4690514,Massachusetts,1,http://www.wikidata.org/entity/Q39825
+1950,6371766,Michigan,1,http://www.wikidata.org/entity/Q39825
+1950,2982483,Minnesota,1,http://www.wikidata.org/entity/Q39825
+1950,2178914,Mississippi,1,http://www.wikidata.org/entity/Q39825
+1950,3954653,Missouri,1,http://www.wikidata.org/entity/Q39825
+1950,591024,Montana,1,http://www.wikidata.org/entity/Q39825
+1950,1325510,Nebraska,1,http://www.wikidata.org/entity/Q39825
+1950,160083,Nevada,1,http://www.wikidata.org/entity/Q39825
+1950,533242,New Hampshire,1,http://www.wikidata.org/entity/Q39825
+1950,4835329,New Jersey,1,http://www.wikidata.org/entity/Q39825
+1950,681187,New Mexico,1,http://www.wikidata.org/entity/Q39825
+1950,14830192,New York,1,http://www.wikidata.org/entity/Q39825
+1950,4061929,North Carolina,1,http://www.wikidata.org/entity/Q39825
+1950,619636,North Dakota,1,http://www.wikidata.org/entity/Q39825
+1950,7946627,Ohio,1,http://www.wikidata.org/entity/Q39825
+1950,2233351,Oklahoma,1,http://www.wikidata.org/entity/Q39825
+1950,1521341,Oregon,1,http://www.wikidata.org/entity/Q39825
+1950,10498012,Pennsylvania,1,http://www.wikidata.org/entity/Q39825
+1950,791896,Rhode Island,1,http://www.wikidata.org/entity/Q39825
+1950,2117027,South Carolina,1,http://www.wikidata.org/entity/Q39825
+1950,652740,South Dakota,1,http://www.wikidata.org/entity/Q39825
+1950,3291718,Tennessee,1,http://www.wikidata.org/entity/Q39825
+1950,7711194,Texas,1,http://www.wikidata.org/entity/Q39825
+1950,688862,Utah,1,http://www.wikidata.org/entity/Q39825
+1950,377747,Vermont,1,http://www.wikidata.org/entity/Q39825
+1950,3318680,Virginia,1,http://www.wikidata.org/entity/Q39825
+1950,2378963,Washington,1,http://www.wikidata.org/entity/Q39825
+1950,2005552,West Virginia,1,http://www.wikidata.org/entity/Q39825
+1950,3434575,Wisconsin,1,http://www.wikidata.org/entity/Q39825
+1950,290529,Wyoming,1,http://www.wikidata.org/entity/Q39825
+1960,3266740,Alabama,1,http://www.wikidata.org/entity/Q39825
+1960,226167,Alaska,1,http://www.wikidata.org/entity/Q39825
+1960,1302161,Arizona,1,http://www.wikidata.org/entity/Q39825
+1960,1786272,Arkansas,1,http://www.wikidata.org/entity/Q39825
+1960,15717204,California,1,http://www.wikidata.org/entity/Q39825
+1960,1753947,Colorado,1,http://www.wikidata.org/entity/Q39825
+1960,2535234,Connecticut,1,http://www.wikidata.org/entity/Q39825
+1960,446292,Delaware,1,http://www.wikidata.org/entity/Q39825
+1960,4951560,Florida,1,http://www.wikidata.org/entity/Q39825
+1960,3943116,Georgia,1,http://www.wikidata.org/entity/Q39825
+1960,632772,Hawaii,1,http://www.wikidata.org/entity/Q39825
+1960,667191,Idaho,1,http://www.wikidata.org/entity/Q39825
+1960,10081158,Illinois,1,http://www.wikidata.org/entity/Q39825
+1960,4662498,Indiana,1,http://www.wikidata.org/entity/Q39825
+1960,2757537,Iowa,1,http://www.wikidata.org/entity/Q39825
+1960,2178611,Kansas,1,http://www.wikidata.org/entity/Q39825
+1960,3038156,Kentucky,1,http://www.wikidata.org/entity/Q39825
+1960,3257022,Louisiana,1,http://www.wikidata.org/entity/Q39825
+1960,969265,Maine,1,http://www.wikidata.org/entity/Q39825
+1960,3100689,Maryland,1,http://www.wikidata.org/entity/Q39825
+1960,5148578,Massachusetts,1,http://www.wikidata.org/entity/Q39825
+1960,7823194,Michigan,1,http://www.wikidata.org/entity/Q39825
+1960,3413864,Minnesota,1,http://www.wikidata.org/entity/Q39825
+1960,2178141,Mississippi,1,http://www.wikidata.org/entity/Q39825
+1960,4319813,Missouri,1,http://www.wikidata.org/entity/Q39825
+1960,674767,Montana,1,http://www.wikidata.org/entity/Q39825
+1960,1411330,Nebraska,1,http://www.wikidata.org/entity/Q39825
+1960,285278,Nevada,1,http://www.wikidata.org/entity/Q39825
+1960,606921,New Hampshire,1,http://www.wikidata.org/entity/Q39825
+1960,6066782,New Jersey,1,http://www.wikidata.org/entity/Q39825
+1960,951023,New Mexico,1,http://www.wikidata.org/entity/Q39825
+1960,16782304,New York,1,http://www.wikidata.org/entity/Q39825
+1960,4556155,North Carolina,1,http://www.wikidata.org/entity/Q39825
+1960,632446,North Dakota,1,http://www.wikidata.org/entity/Q39825
+1960,9706397,Ohio,1,http://www.wikidata.org/entity/Q39825
+1960,2328284,Oklahoma,1,http://www.wikidata.org/entity/Q39825
+1960,1768687,Oregon,1,http://www.wikidata.org/entity/Q39825
+1960,11319366,Pennsylvania,1,http://www.wikidata.org/entity/Q39825
+1960,859488,Rhode Island,1,http://www.wikidata.org/entity/Q39825
+1960,2382594,South Carolina,1,http://www.wikidata.org/entity/Q39825
+1960,680514,South Dakota,1,http://www.wikidata.org/entity/Q39825
+1960,3567089,Tennessee,1,http://www.wikidata.org/entity/Q39825
+1960,9579677,Texas,1,http://www.wikidata.org/entity/Q39825
+1960,890627,Utah,1,http://www.wikidata.org/entity/Q39825
+1960,389881,Vermont,1,http://www.wikidata.org/entity/Q39825
+1960,3966949,Virginia,1,http://www.wikidata.org/entity/Q39825
+1960,2853214,Washington,1,http://www.wikidata.org/entity/Q39825
+1960,1860421,West Virginia,1,http://www.wikidata.org/entity/Q39825
+1960,3951777,Wisconsin,1,http://www.wikidata.org/entity/Q39825
+1960,330066,Wyoming,1,http://www.wikidata.org/entity/Q39825
+1970,3444165,Alabama,1,http://www.wikidata.org/entity/Q39825
+1970,300382,Alaska,1,http://www.wikidata.org/entity/Q39825
+1970,1770900,Arizona,1,http://www.wikidata.org/entity/Q39825
+1970,1923295,Arkansas,1,http://www.wikidata.org/entity/Q39825
+1970,19953134,California,1,http://www.wikidata.org/entity/Q39825
+1970,2207259,Colorado,1,http://www.wikidata.org/entity/Q39825
+1970,3031709,Connecticut,1,http://www.wikidata.org/entity/Q39825
+1970,548104,Delaware,1,http://www.wikidata.org/entity/Q39825
+1970,6789443,Florida,1,http://www.wikidata.org/entity/Q39825
+1970,4589575,Georgia,1,http://www.wikidata.org/entity/Q39825
+1970,768561,Hawaii,1,http://www.wikidata.org/entity/Q39825
+1970,712567,Idaho,1,http://www.wikidata.org/entity/Q39825
+1970,11113976,Illinois,1,http://www.wikidata.org/entity/Q39825
+1970,5193669,Indiana,1,http://www.wikidata.org/entity/Q39825
+1970,2824376,Iowa,1,http://www.wikidata.org/entity/Q39825
+1970,2246578,Kansas,1,http://www.wikidata.org/entity/Q39825
+1970,3218706,Kentucky,1,http://www.wikidata.org/entity/Q39825
+1970,3641306,Louisiana,1,http://www.wikidata.org/entity/Q39825
+1970,992048,Maine,1,http://www.wikidata.org/entity/Q39825
+1970,3922399,Maryland,1,http://www.wikidata.org/entity/Q39825
+1970,5689170,Massachusetts,1,http://www.wikidata.org/entity/Q39825
+1970,8875083,Michigan,1,http://www.wikidata.org/entity/Q39825
+1970,3804971,Minnesota,1,http://www.wikidata.org/entity/Q39825
+1970,2216912,Mississippi,1,http://www.wikidata.org/entity/Q39825
+1970,4676501,Missouri,1,http://www.wikidata.org/entity/Q39825
+1970,694409,Montana,1,http://www.wikidata.org/entity/Q39825
+1970,1483493,Nebraska,1,http://www.wikidata.org/entity/Q39825
+1970,488738,Nevada,1,http://www.wikidata.org/entity/Q39825
+1970,737681,New Hampshire,1,http://www.wikidata.org/entity/Q39825
+1970,7168164,New Jersey,1,http://www.wikidata.org/entity/Q39825
+1970,1016000,New Mexico,1,http://www.wikidata.org/entity/Q39825
+1970,18236967,New York,1,http://www.wikidata.org/entity/Q39825
+1970,5082059,North Carolina,1,http://www.wikidata.org/entity/Q39825
+1970,617761,North Dakota,1,http://www.wikidata.org/entity/Q39825
+1970,10652017,Ohio,1,http://www.wikidata.org/entity/Q39825
+1970,2559229,Oklahoma,1,http://www.wikidata.org/entity/Q39825
+1970,2091385,Oregon,1,http://www.wikidata.org/entity/Q39825
+1970,11793909,Pennsylvania,1,http://www.wikidata.org/entity/Q39825
+1970,946725,Rhode Island,1,http://www.wikidata.org/entity/Q39825
+1970,2590516,South Carolina,1,http://www.wikidata.org/entity/Q39825
+1970,665507,South Dakota,1,http://www.wikidata.org/entity/Q39825
+1970,3923687,Tennessee,1,http://www.wikidata.org/entity/Q39825
+1970,11196730,Texas,1,http://www.wikidata.org/entity/Q39825
+1970,1059273,Utah,1,http://www.wikidata.org/entity/Q39825
+1970,444330,Vermont,1,http://www.wikidata.org/entity/Q39825
+1970,4648494,Virginia,1,http://www.wikidata.org/entity/Q39825
+1970,3409169,Washington,1,http://www.wikidata.org/entity/Q39825
+1970,1744237,West Virginia,1,http://www.wikidata.org/entity/Q39825
+1970,4417731,Wisconsin,1,http://www.wikidata.org/entity/Q39825
+1970,332416,Wyoming,1,http://www.wikidata.org/entity/Q39825
+1980,3893888,Alabama,1,http://www.wikidata.org/entity/Q39825
+1980,401851,Alaska,1,http://www.wikidata.org/entity/Q39825
+1980,2718215,Arizona,1,http://www.wikidata.org/entity/Q39825
+1980,2286435,Arkansas,1,http://www.wikidata.org/entity/Q39825
+1980,23667902,California,1,http://www.wikidata.org/entity/Q39825
+1980,2889964,Colorado,1,http://www.wikidata.org/entity/Q39825
+1980,3107576,Connecticut,1,http://www.wikidata.org/entity/Q39825
+1980,594338,Delaware,1,http://www.wikidata.org/entity/Q39825
+1980,9746324,Florida,1,http://www.wikidata.org/entity/Q39825
+1980,5463105,Georgia,1,http://www.wikidata.org/entity/Q39825
+1980,964691,Hawaii,1,http://www.wikidata.org/entity/Q39825
+1980,943935,Idaho,1,http://www.wikidata.org/entity/Q39825
+1980,11426518,Illinois,1,http://www.wikidata.org/entity/Q39825
+1980,5490224,Indiana,1,http://www.wikidata.org/entity/Q39825
+1980,2913808,Iowa,1,http://www.wikidata.org/entity/Q39825
+1980,2363679,Kansas,1,http://www.wikidata.org/entity/Q39825
+1980,3660777,Kentucky,1,http://www.wikidata.org/entity/Q39825
+1980,4205900,Louisiana,1,http://www.wikidata.org/entity/Q39825
+1980,1124660,Maine,1,http://www.wikidata.org/entity/Q39825
+1980,4216975,Maryland,1,http://www.wikidata.org/entity/Q39825
+1980,5737037,Massachusetts,1,http://www.wikidata.org/entity/Q39825
+1980,9262078,Michigan,1,http://www.wikidata.org/entity/Q39825
+1980,4075970,Minnesota,1,http://www.wikidata.org/entity/Q39825
+1980,2520638,Mississippi,1,http://www.wikidata.org/entity/Q39825
+1980,4916686,Missouri,1,http://www.wikidata.org/entity/Q39825
+1980,786690,Montana,1,http://www.wikidata.org/entity/Q39825
+1980,1569825,Nebraska,1,http://www.wikidata.org/entity/Q39825
+1980,800493,Nevada,1,http://www.wikidata.org/entity/Q39825
+1980,920610,New Hampshire,1,http://www.wikidata.org/entity/Q39825
+1980,7364823,New Jersey,1,http://www.wikidata.org/entity/Q39825
+1980,1302894,New Mexico,1,http://www.wikidata.org/entity/Q39825
+1980,17558072,New York,1,http://www.wikidata.org/entity/Q39825
+1980,5881766,North Carolina,1,http://www.wikidata.org/entity/Q39825
+1980,652717,North Dakota,1,http://www.wikidata.org/entity/Q39825
+1980,10797630,Ohio,1,http://www.wikidata.org/entity/Q39825
+1980,3025290,Oklahoma,1,http://www.wikidata.org/entity/Q39825
+1980,2633105,Oregon,1,http://www.wikidata.org/entity/Q39825
+1980,11863895,Pennsylvania,1,http://www.wikidata.org/entity/Q39825
+1980,947154,Rhode Island,1,http://www.wikidata.org/entity/Q39825
+1980,3121820,South Carolina,1,http://www.wikidata.org/entity/Q39825
+1980,690768,South Dakota,1,http://www.wikidata.org/entity/Q39825
+1980,4591120,Tennessee,1,http://www.wikidata.org/entity/Q39825
+1980,14229191,Texas,1,http://www.wikidata.org/entity/Q39825
+1980,1461037,Utah,1,http://www.wikidata.org/entity/Q39825
+1980,511456,Vermont,1,http://www.wikidata.org/entity/Q39825
+1980,5346818,Virginia,1,http://www.wikidata.org/entity/Q39825
+1980,4132156,Washington,1,http://www.wikidata.org/entity/Q39825
+1980,1949644,West Virginia,1,http://www.wikidata.org/entity/Q39825
+1980,4705767,Wisconsin,1,http://www.wikidata.org/entity/Q39825
+1980,469557,Wyoming,1,http://www.wikidata.org/entity/Q39825
+1990,4040587,Alabama,1,http://www.wikidata.org/entity/Q39825
+1990,550043,Alaska,1,http://www.wikidata.org/entity/Q39825
+1990,3665228,Arizona,1,http://www.wikidata.org/entity/Q39825
+1990,2350725,Arkansas,1,http://www.wikidata.org/entity/Q39825
+1990,29760021,California,1,http://www.wikidata.org/entity/Q39825
+1990,3294394,Colorado,1,http://www.wikidata.org/entity/Q39825
+1990,3287116,Connecticut,1,http://www.wikidata.org/entity/Q39825
+1990,666168,Delaware,1,http://www.wikidata.org/entity/Q39825
+1990,12937926,Florida,1,http://www.wikidata.org/entity/Q39825
+1990,6478216,Georgia,1,http://www.wikidata.org/entity/Q39825
+1990,1108229,Hawaii,1,http://www.wikidata.org/entity/Q39825
+1990,1006749,Idaho,1,http://www.wikidata.org/entity/Q39825
+1990,11430602,Illinois,1,http://www.wikidata.org/entity/Q39825
+1990,5544159,Indiana,1,http://www.wikidata.org/entity/Q39825
+1990,2776755,Iowa,1,http://www.wikidata.org/entity/Q39825
+1990,2477574,Kansas,1,http://www.wikidata.org/entity/Q39825
+1990,3685296,Kentucky,1,http://www.wikidata.org/entity/Q39825
+1990,4219973,Louisiana,1,http://www.wikidata.org/entity/Q39825
+1990,1227928,Maine,1,http://www.wikidata.org/entity/Q39825
+1990,4781468,Maryland,1,http://www.wikidata.org/entity/Q39825
+1990,6016425,Massachusetts,1,http://www.wikidata.org/entity/Q39825
+1990,9295297,Michigan,1,http://www.wikidata.org/entity/Q39825
+1990,4375099,Minnesota,1,http://www.wikidata.org/entity/Q39825
+1990,2573216,Mississippi,1,http://www.wikidata.org/entity/Q39825
+1990,5117073,Missouri,1,http://www.wikidata.org/entity/Q39825
+1990,799065,Montana,1,http://www.wikidata.org/entity/Q39825
+1990,1578385,Nebraska,1,http://www.wikidata.org/entity/Q39825
+1990,1201833,Nevada,1,http://www.wikidata.org/entity/Q39825
+1990,1109252,New Hampshire,1,http://www.wikidata.org/entity/Q39825
+1990,7730188,New Jersey,1,http://www.wikidata.org/entity/Q39825
+1990,1515069,New Mexico,1,http://www.wikidata.org/entity/Q39825
+1990,17990455,New York,1,http://www.wikidata.org/entity/Q39825
+1990,6628637,North Carolina,1,http://www.wikidata.org/entity/Q39825
+1990,638800,North Dakota,1,http://www.wikidata.org/entity/Q39825
+1990,10847115,Ohio,1,http://www.wikidata.org/entity/Q39825
+1990,3145585,Oklahoma,1,http://www.wikidata.org/entity/Q39825
+1990,2842321,Oregon,1,http://www.wikidata.org/entity/Q39825
+1990,11881643,Pennsylvania,1,http://www.wikidata.org/entity/Q39825
+1990,1003464,Rhode Island,1,http://www.wikidata.org/entity/Q39825
+1990,3486703,South Carolina,1,http://www.wikidata.org/entity/Q39825
+1990,696004,South Dakota,1,http://www.wikidata.org/entity/Q39825
+1990,4877185,Tennessee,1,http://www.wikidata.org/entity/Q39825
+1990,16986510,Texas,1,http://www.wikidata.org/entity/Q39825
+1990,1722850,Utah,1,http://www.wikidata.org/entity/Q39825
+1990,562758,Vermont,1,http://www.wikidata.org/entity/Q39825
+1990,6187358,Virginia,1,http://www.wikidata.org/entity/Q39825
+1990,4866692,Washington,1,http://www.wikidata.org/entity/Q39825
+1990,1793477,West Virginia,1,http://www.wikidata.org/entity/Q39825
+1990,4891769,Wisconsin,1,http://www.wikidata.org/entity/Q39825
+1990,453588,Wyoming,1,http://www.wikidata.org/entity/Q39825
+2000,4447100,Alabama,1,http://www.wikidata.org/entity/Q39825
+2000,626932,Alaska,1,http://www.wikidata.org/entity/Q39825
+2000,5130632,Arizona,1,http://www.wikidata.org/entity/Q39825
+2000,2673400,Arkansas,1,http://www.wikidata.org/entity/Q39825
+2000,33871648,California,1,http://www.wikidata.org/entity/Q39825
+2000,4301261,Colorado,1,http://www.wikidata.org/entity/Q39825
+2000,3405565,Connecticut,1,http://www.wikidata.org/entity/Q39825
+2000,783600,Delaware,1,http://www.wikidata.org/entity/Q39825
+2000,15982378,Florida,1,http://www.wikidata.org/entity/Q39825
+2000,8186453,Georgia,1,http://www.wikidata.org/entity/Q39825
+2000,1211537,Hawaii,1,http://www.wikidata.org/entity/Q39825
+2000,1293953,Idaho,1,http://www.wikidata.org/entity/Q39825
+2000,12419293,Illinois,1,http://www.wikidata.org/entity/Q39825
+2000,6080485,Indiana,1,http://www.wikidata.org/entity/Q39825
+2000,2926324,Iowa,1,http://www.wikidata.org/entity/Q39825
+2000,2688418,Kansas,1,http://www.wikidata.org/entity/Q39825
+2000,4041769,Kentucky,1,http://www.wikidata.org/entity/Q39825
+2000,4468976,Louisiana,1,http://www.wikidata.org/entity/Q39825
+2000,1274923,Maine,1,http://www.wikidata.org/entity/Q39825
+2000,5296486,Maryland,1,http://www.wikidata.org/entity/Q39825
+2000,6349097,Massachusetts,1,http://www.wikidata.org/entity/Q39825
+2000,9938444,Michigan,1,http://www.wikidata.org/entity/Q39825
+2000,4919479,Minnesota,1,http://www.wikidata.org/entity/Q39825
+2000,2844658,Mississippi,1,http://www.wikidata.org/entity/Q39825
+2000,5595211,Missouri,1,http://www.wikidata.org/entity/Q39825
+2000,902195,Montana,1,http://www.wikidata.org/entity/Q39825
+2000,1711263,Nebraska,1,http://www.wikidata.org/entity/Q39825
+2000,1998257,Nevada,1,http://www.wikidata.org/entity/Q39825
+2000,1235786,New Hampshire,1,http://www.wikidata.org/entity/Q39825
+2000,8414350,New Jersey,1,http://www.wikidata.org/entity/Q39825
+2000,1819046,New Mexico,1,http://www.wikidata.org/entity/Q39825
+2000,18976457,New York,1,http://www.wikidata.org/entity/Q39825
+2000,8049313,North Carolina,1,http://www.wikidata.org/entity/Q39825
+2000,642200,North Dakota,1,http://www.wikidata.org/entity/Q39825
+2000,11353140,Ohio,1,http://www.wikidata.org/entity/Q39825
+2000,3450654,Oklahoma,1,http://www.wikidata.org/entity/Q39825
+2000,3421399,Oregon,1,http://www.wikidata.org/entity/Q39825
+2000,12281054,Pennsylvania,1,http://www.wikidata.org/entity/Q39825
+2000,1048319,Rhode Island,1,http://www.wikidata.org/entity/Q39825
+2000,4012012,South Carolina,1,http://www.wikidata.org/entity/Q39825
+2000,754844,South Dakota,1,http://www.wikidata.org/entity/Q39825
+2000,5689283,Tennessee,1,http://www.wikidata.org/entity/Q39825
+2000,20851820,Texas,1,http://www.wikidata.org/entity/Q39825
+2000,2233169,Utah,1,http://www.wikidata.org/entity/Q39825
+2000,608827,Vermont,1,http://www.wikidata.org/entity/Q39825
+2000,7078515,Virginia,1,http://www.wikidata.org/entity/Q39825
+2000,5894121,Washington,1,http://www.wikidata.org/entity/Q39825
+2000,1808344,West Virginia,1,http://www.wikidata.org/entity/Q39825
+2000,5363675,Wisconsin,1,http://www.wikidata.org/entity/Q39825
+2000,493782,Wyoming,1,http://www.wikidata.org/entity/Q39825
+2010,4779736,Alabama,1,http://www.wikidata.org/entity/Q39825
+2010,710231,Alaska,1,http://www.wikidata.org/entity/Q39825
+2010,6392017,Arizona,1,http://www.wikidata.org/entity/Q39825
+2010,2915918,Arkansas,1,http://www.wikidata.org/entity/Q39825
+2010,37253956,California,1,http://www.wikidata.org/entity/Q39825
+2010,5029196,Colorado,1,http://www.wikidata.org/entity/Q39825
+2010,3574097,Connecticut,1,http://www.wikidata.org/entity/Q39825
+2010,897934,Delaware,1,http://www.wikidata.org/entity/Q39825
+2010,18801310,Florida,1,http://www.wikidata.org/entity/Q39825
+2010,9687653,Georgia,1,http://www.wikidata.org/entity/Q39825
+2010,1360301,Hawaii,1,http://www.wikidata.org/entity/Q39825
+2010,1567582,Idaho,1,http://www.wikidata.org/entity/Q39825
+2010,12830632,Illinois,1,http://www.wikidata.org/entity/Q39825
+2010,6483802,Indiana,1,http://www.wikidata.org/entity/Q39825
+2010,3046355,Iowa,1,http://www.wikidata.org/entity/Q39825
+2010,2853118,Kansas,1,http://www.wikidata.org/entity/Q39825
+2010,4339367,Kentucky,1,http://www.wikidata.org/entity/Q39825
+2010,4533372,Louisiana,1,http://www.wikidata.org/entity/Q39825
+2010,1328361,Maine,1,http://www.wikidata.org/entity/Q39825
+2010,5773552,Maryland,1,http://www.wikidata.org/entity/Q39825
+2010,6547629,Massachusetts,1,http://www.wikidata.org/entity/Q39825
+2010,9883640,Michigan,1,http://www.wikidata.org/entity/Q39825
+2010,5303925,Minnesota,1,http://www.wikidata.org/entity/Q39825
+2010,2967297,Mississippi,1,http://www.wikidata.org/entity/Q39825
+2010,5988927,Missouri,1,http://www.wikidata.org/entity/Q39825
+2010,989415,Montana,1,http://www.wikidata.org/entity/Q39825
+2010,1826341,Nebraska,1,http://www.wikidata.org/entity/Q39825
+2010,2700551,Nevada,1,http://www.wikidata.org/entity/Q39825
+2010,1316470,New Hampshire,1,http://www.wikidata.org/entity/Q39825
+2010,8791894,New Jersey,1,http://www.wikidata.org/entity/Q39825
+2010,2059179,New Mexico,1,http://www.wikidata.org/entity/Q39825
+2010,19378102,New York,1,http://www.wikidata.org/entity/Q39825
+2010,9535483,North Carolina,1,http://www.wikidata.org/entity/Q39825
+2010,672591,North Dakota,1,http://www.wikidata.org/entity/Q39825
+2010,11536504,Ohio,1,http://www.wikidata.org/entity/Q39825
+2010,3831074,Oregon,1,http://www.wikidata.org/entity/Q39825
+2010,12702379,Pennsylvania,1,http://www.wikidata.org/entity/Q39825
+2010,1052567,Rhode Island,1,http://www.wikidata.org/entity/Q39825
+2010,4625364,South Carolina,1,http://www.wikidata.org/entity/Q39825
+2010,814180,South Dakota,1,http://www.wikidata.org/entity/Q39825
+2010,6346105,Tennessee,1,http://www.wikidata.org/entity/Q39825
+2010,25145561,Texas,1,http://www.wikidata.org/entity/Q39825
+2010,2763885,Utah,1,http://www.wikidata.org/entity/Q39825
+2010,625741,Vermont,1,http://www.wikidata.org/entity/Q39825
+2010,8001024,Virginia,1,http://www.wikidata.org/entity/Q39825
+2010,6724540,Washington,1,http://www.wikidata.org/entity/Q39825
+2010,1852994,West Virginia,1,http://www.wikidata.org/entity/Q39825
+2010,5686986,Wisconsin,1,http://www.wikidata.org/entity/Q39825
+2010,563626,Wyoming,1,http://www.wikidata.org/entity/Q39825
+2011,567768,Wyoming,1,
+2012,577080,Wyoming,1,
+2013,1404054,Hawaii,1,http://www.wikidata.org/entity/Q791801
+2013,5928814,Maryland,1,http://www.wikidata.org/entity/Q791801
+2013,583131,Wyoming,1,
+2014,584304,Wyoming,1,
+2015,4858979,Alabama,1,http://www.wikidata.org/entity/Q15911027
+2015,738432,Alaska,1,http://www.wikidata.org/entity/Q15911027
+2015,6828065,Arizona,1,http://www.wikidata.org/entity/Q15911027
+2015,2978204,Arkansas,1,http://www.wikidata.org/entity/Q15911027
+2015,39144818,California,1,http://www.wikidata.org/entity/Q15911027
+2015,5456574,Colorado,1,http://www.wikidata.org/entity/Q15911027
+2015,3590886,Connecticut,1,http://www.wikidata.org/entity/Q15911027
+2015,945934,Delaware,1,http://www.wikidata.org/entity/Q15911027
+2015,20271272,Florida,1,http://www.wikidata.org/entity/Q15911027
+2015,10214860,Georgia,1,http://www.wikidata.org/entity/Q15911027
+2015,1431603,Hawaii,1,http://www.wikidata.org/entity/Q15911027
+2015,1654930,Idaho,1,http://www.wikidata.org/entity/Q15911027
+2015,12859995,Illinois,1,http://www.wikidata.org/entity/Q15911027
+2015,6619680,Indiana,1,http://www.wikidata.org/entity/Q15911027
+2015,3123899,Iowa,1,http://www.wikidata.org/entity/Q15911027
+2015,2911641,Kansas,1,http://www.wikidata.org/entity/Q15911027
+2015,4425092,Kentucky,1,http://www.wikidata.org/entity/Q15911027
+2015,4670724,Louisiana,1,http://www.wikidata.org/entity/Q15911027
+2015,1329328,Maine,1,http://www.wikidata.org/entity/Q15911027
+2015,6006401,Maryland,1,http://www.wikidata.org/entity/Q15911027
+2015,6794422,Massachusetts,1,http://www.wikidata.org/entity/Q15911027
+2015,9922576,Michigan,1,http://www.wikidata.org/entity/Q15911027
+2015,5489594,Minnesota,1,http://www.wikidata.org/entity/Q15911027
+2015,2992333,Mississippi,1,http://www.wikidata.org/entity/Q15911027
+2015,6083672,Missouri,1,http://www.wikidata.org/entity/Q15911027
+2015,1032949,Montana,1,http://www.wikidata.org/entity/Q15911027
+2015,1896190,Nebraska,1,http://www.wikidata.org/entity/Q15911027
+2015,2890845,Nevada,1,http://www.wikidata.org/entity/Q15911027
+2015,1330608,New Hampshire,1,http://www.wikidata.org/entity/Q15911027
+2015,8958013,New Jersey,1,http://www.wikidata.org/entity/Q15911027
+2015,2085109,New Mexico,1,http://www.wikidata.org/entity/Q15911027
+2015,19795791,New York,1,http://www.wikidata.org/entity/Q15911027
+2015,10042802,North Carolina,1,http://www.wikidata.org/entity/Q15911027
+2015,756927,North Dakota,1,http://www.wikidata.org/entity/Q15911027
+2015,11613423,Ohio,1,http://www.wikidata.org/entity/Q15911027
+2015,3911338,Oklahoma,1,http://www.wikidata.org/entity/Q15911027
+2015,4028977,Oregon,1,http://www.wikidata.org/entity/Q15911027
+2015,12802503,Pennsylvania,1,http://www.wikidata.org/entity/Q15911027
+2015,1056298,Rhode Island,1,http://www.wikidata.org/entity/Q15911027
+2015,4896146,South Carolina,1,http://www.wikidata.org/entity/Q15911027
+2015,858469,South Dakota,1,http://www.wikidata.org/entity/Q15911027
+2015,6600299,Tennessee,1,http://www.wikidata.org/entity/Q15911027
+2015,27469114,Texas,1,http://www.wikidata.org/entity/Q15911027
+2015,2995919,Utah,1,http://www.wikidata.org/entity/Q15911027
+2015,626042,Vermont,1,http://www.wikidata.org/entity/Q15911027
+2015,8382993,Virginia,1,http://www.wikidata.org/entity/Q15911027
+2015,7170351,Washington,1,http://www.wikidata.org/entity/Q15911027
+2015,1844128,West Virginia,1,http://www.wikidata.org/entity/Q15911027
+2015,5771337,Wisconsin,1,http://www.wikidata.org/entity/Q15911027
+2015,586107,Wyoming,1,http://www.wikidata.org/entity/Q15911027
+2016,39250017,California,1,
+2016,8944469,New Jersey,1,
+2018,3940521,Oklahoma,1,http://www.wikidata.org/entity/Q39825

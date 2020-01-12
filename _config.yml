@@ -6,6 +6,21 @@ include:
   - index.md
   - author.md
   - setup.md
+  - lessons/week-1.md
+  - lessons/week-2.md
+  - lessons/week-3.md
+  - lessons/week-4.md
+  - lessons/week-5.md
+  - lessons/week-6.md
+  - lessons/week-7.md
+  - lessons/week-8.md
+  - lessons/week-9.md
+  - lessons/week-10.md
+  - lessons/week-11.md
+  - lessons/week-12.md
+  - lessons/week-13.md
+  - lessons/week-14.md
+  - lessons/week-15.md
 plugins:
   - jekyll-relative-links
   - jekyll-include-cache

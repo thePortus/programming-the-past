@@ -7,13 +7,15 @@ main:
     url: /about
 
 sidebar_nav:
-  - title: Starting Info
+  - title: "Home"
+    url: /
+  - title: "Starting Info"
     children:
       - title: "Setup"
         url: /setup
       - title: "About"
         url: /about
-  - title: Lessons
+  - title: "Lessons"
     children:
       - title: "Week 1"
         url: /lessons/week-1

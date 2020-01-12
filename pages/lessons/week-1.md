@@ -8,4 +8,20 @@ sidebar:
   nav: "sidebar_nav"
 ---
 
-Lorem ipsum dolor sit amet.
+### First Glances
+
+- Power of Data
+    - Machine Learning Techniques
+    - Datafication and the Past
+- Computers Under the Hood
+    - Bit Exercise
+    - Storage: RAM, Files, Plain Text, ASCII/Unicode
+    - From Bits to Compilers to Python
+- What Programming Can Do
+    - For History
+    - For You
+- The Syllabus
+- Diving In
+    - Command (Shell)
+    - Python
+- A History of Computation
