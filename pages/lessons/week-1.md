@@ -21,6 +21,7 @@ sidebar:
     - For History
     - For You
 - The Syllabus
+- Next Week's Assignment
 - Diving In
     - Command (Shell)
     - Python
