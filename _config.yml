@@ -31,4 +31,4 @@ source: ./pages
 collections_dir: ./pages
 includes_dir: _includes
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: "sunrise" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
