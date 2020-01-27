@@ -18,7 +18,9 @@ sidebar:
     1. Open a command line prompt and type `pip install flake8`
 2. Install [Git-scm](https://git-scm.com/)
 3. Install [Atom](https://atom.io)
-    1. After install open the 'File' menu and choose 'Preferences'
+    1. Start Atom
+        1. For Windows: after starting atom open the 'File' menu and choose 'Preferences'
+        2. For Mac: after starting atom open the 'Atom' menu and choose 'Preferences'
     2. Then select the 'Install' tab
     3. Search for and install the following addons (if they are not already installed)...
         1. `file-icons`
