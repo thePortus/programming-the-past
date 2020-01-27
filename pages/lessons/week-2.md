@@ -12,12 +12,12 @@ sidebar:
 
 - [Course Setup]({{ site.baseurl }}/setup)
 - Read
-    - ~~[LearnPython.org](https://www.learnpython.org/)~~
-        - ~~[Hello World](https://www.learnpython.org/en/Hello%2C_World%21)~~
-        - ~~[Variable Types](https://www.learnpython.org/en/Variables_and_Types)~~
-        - ~~[Basic Operators](https://www.learnpython.org/en/Basic_Operators)~~
-        - ~~[Conditionals](https://www.learnpython.org/en/Conditions)~~
-        - ~~[Loops](https://www.learnpython.org/en/Loops)~~
+    - [LearnPython.org](https://www.learnpython.org/)
+        - [Hello World](https://www.learnpython.org/en/Hello%2C_World%21)
+        - [Variable Types](https://www.learnpython.org/en/Variables_and_Types)
+        - [Basic Operators](https://www.learnpython.org/en/Basic_Operators)
+        - [Conditionals](https://www.learnpython.org/en/Conditions)
+        - [Loops](https://www.learnpython.org/en/Loops)
     - [Textbook](https://automatetheboringstuff.com/) Introduction & 1.1 - 1.2
 
 ### Review
