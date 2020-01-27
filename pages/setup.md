@@ -33,7 +33,7 @@ sidebar:
 
 ---
 
-## Setup Notebooks to Run Locally
+## Setup Notebooks to Run Locally (VERY OPTIONAL)
 
 1. Open the command prompt and go to where you want the new repo
 2. Enter the following
