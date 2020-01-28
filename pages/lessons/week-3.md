@@ -16,9 +16,11 @@ sidebar:
         - Miriam Posner - [Some Things to Think About Before You Exhort Everyone to Code](http://miriamposner.com/blog/some-things-to-think-about-before-you-exhort-everyone-to-code/)
         - James Gottlieb - [Coding and the Digital Humanities](http://www.jamesgottlieb.com/2012/03/08/coding-and-digital-humanities/)
     - [LearnPython.org](https://www.learnpython.org/)
-        - [Functions](https://www.learnpython.org/en/Functions)
-        - [Lists](https://www.learnpython.org/en/Lists)
-    - [Textbook](https://automatetheboringstuff.com/) Introduction & 1.3 - 1.4 (ignore stuff on tuples)
+        - [Hello World](https://www.learnpython.org/en/Hello%2C_World%21)
+        - [Variable Types](https://www.learnpython.org/en/Variables_and_Types)
+        - [Basic Operators](https://www.learnpython.org/en/Basic_Operators)
+        - [Conditionals](https://www.learnpython.org/en/Conditions)
+        - [Loops](https://www.learnpython.org/en/Loops)
 
 ### Review
 
