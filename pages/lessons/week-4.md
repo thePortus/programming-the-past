@@ -17,7 +17,7 @@ sidebar:
         - [Dictionaries](https://www.learnpython.org/en/Dictionaries)
     - [Textbook](https://automatetheboringstuff.com/) Introduction & 1.3 - 1.4 (ignore stuff on tuples)
 - Submit
-    - A screenshot of you completing the last exercise from the textbook part 1.4 (or as far as you could get)
+    - Submit screenshot of the exercise Chess Dictionary Validator near the end of the textbook chapter in 1.5
 
 ### Review
 
