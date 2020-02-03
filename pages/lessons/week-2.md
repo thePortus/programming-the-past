@@ -39,31 +39,8 @@ sidebar:
         - Code Blocks & Indentation
         - Conditions:
             - `if`/`else`/`elif`
-        - Loops:
-            - `while`
-            - `break`/`continue`
-            - `for` (and the `range()` function)
-    - Importing Modules, `os`/`sys`
-    - Class Exercise: Making Hangman Game
-        - Plan in flowchart
-        - Write pseudo-code
-        - Write final code as a class
+
 
 ### New
 
-- Lecture - [History of Computation](https://theportus.github.io/presentations/usf-dh-computer-history.html#/)
-- Python
-    - Functions
-        - Defining functions, arguments, and keyword arguments
-        - Returning values
-        - Scope, local and global
-        - Handling Exceptions
-    - Class Exercise: Continuing Hangman Game, Refine with Functions
-    - Lists
-        - Why use lists
-        - Looping a list with `for`
-        - Splicing lists
-        - Appending and removing from lists
-        - Checking for subsets with `in` and `not in`
-    - Class Exercise: Continue Hangman Game, Refin with Lists
-    - Lecture - [History of Hacking](https://theportus.github.io/presentations/usf-dh-history-of-hacking.html#/)
+- Entire class spent in review
