@@ -24,6 +24,7 @@ sidebar:
 
 ### Review
 
+- Reintroductions
 - Reading Discussion
 - Lecture - [History of Hacking](https://theportus.github.io/presentations/usf-dh-history-of-hacking.html#/)
 - Loops:
@@ -43,16 +44,18 @@ sidebar:
 - Storing Data
     - Lists
         - Why use lists, order series (flat data)
+        - Creating a list, populated, blank
         - Looping a list with `for`
-        - Splicing lists
-        - Appending and removing from lists
+        - `.append()`, `remove()`, and `delete()` lists
         - Checking for subsets with `in` and `not in`
+        - Splicing lists
     - Dictionaries
         - Why use dictionaries, unordered depth (nested data)
         - Looping
             - key, val
-            - .keys(), .values(), .items()
-            - pretty printing with `pprint.pprint()`
+            - `.keys()`, `.values(), `.items()`
+        - `.pop()`, `delete()`
+        - pretty printing with `pprint.pprint()`
         - Checking if value is in
 - Fast Example: Printing a List of Dictionaries, Student Roster
 - Fast Example: Printing a Dictionary of Lists, Battleship
@@ -61,6 +64,7 @@ sidebar:
     - Plan Major Steps
     - Pseudo Code
     - Write real code
+- Programming Resource: GitHub
 - Class Exercise: Battleship
     - Learning to plan and write
     - Plan Major Steps
