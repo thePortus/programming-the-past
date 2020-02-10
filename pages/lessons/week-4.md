@@ -22,6 +22,7 @@ sidebar:
 ### Review
 
 - How to submit a question on Slack
+- How to find and run last week's notebook's
 - How to make/submit a .py file in Atom
 - Lecture - [History of Computation](https://theportus.github.io/presentations/usf-dh-computer-history.html#/)
 - Importing Modules, `os`/`sys`
