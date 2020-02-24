@@ -10,6 +10,7 @@ sidebar:
 
 ### Prepare
 
-### Review
+- Submit
+    - Answer the practice questions at the end of Chapter 1.6 in a Word .docx file and submit it on Canvas
 
-### New
+### Lesson

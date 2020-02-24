@@ -53,23 +53,6 @@ sidebar:
             - Accepting argument(s)
             - Returning values
             - Scope
-
-
-### New
-
-- Fast Example: Printing a List of Dictionaries, Student Roster
-- Fast Example: Printing a Dictionary of Lists, Battleship
-- Class Exercise: Wikipedia Module
-    - Having it search one term and auto download
-    - Having it make a function that returns data for all terms
-- Class Exercise: Hangman-esque Game
-    - Learning to plan and write
-    - Plan Major Steps
-    - Pseudo Code
-    - Write real code
-- Programming Resource: GitHub
-- Class Exercise: Battleship
-    - Learning to plan and write
-    - Plan Major Steps
-    - Pseudo Code
-    - Write real code
+    - Class Exercise: Wikipedia Module
+        - Having it search one term and auto download
+        - Having it make a function that returns data for all terms
