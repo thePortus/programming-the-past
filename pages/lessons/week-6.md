@@ -11,6 +11,6 @@ sidebar:
 ### Prepare
 
 - Submit
-    - Answer the practice questions at the end of Chapter 1.6 in a Word .docx file and submit it on Canvas
+    - Answer the practice questions at the end of Chapter 1.4 in a Word .docx file and submit it on Canvas
 
 ### Lesson
