@@ -31,9 +31,4 @@ sidebar:
         - `.upper()`, `.lower()`, `.isupper()`, `.islower()`, and `isX()`
         - `starswith()`, `endswith()`
         - `.join()`, `.split()`, and `.strip()`
-    - Class Exercise: Hangman-esque Game
-        - Learning to plan and write
-        - Plan Major Steps
-        - Pseudo Code
-        - Write real code
 - Tableau (if time)

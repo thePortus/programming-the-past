@@ -14,3 +14,23 @@ sidebar:
     - Answer the practice questions at the end of Chapter 1.4 in a Word .docx file and submit it on Canvas
 
 ### Lesson
+
+- Python
+    - Questions about lists
+    - .append() and empty lists
+    - Class Exercise: Hangman-esque Game
+        - Learning to plan and write
+        - Plan Major Steps
+        - Pseudo Code
+        - Start writing real code
+- Webscraper
+    - Redoing [PHI Greek Epigraphy](http://epigraphy.packhum.org/) using start URL method instead of next link
+    - [Florida Memory: WPA Churches](https://www.floridamemory.com/collections/churchrecords/) using recursion and element selectors
+- Tableau
+    - Importing Data
+    - Field Types, Dimensions, and Measures
+    - Tableau Pivot Tables
+    - Visualizations and Types
+    - Customizing Visualizations
+    - Dashboards
+    - Stories
