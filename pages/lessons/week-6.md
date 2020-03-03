@@ -18,11 +18,6 @@ sidebar:
 - Python
     - Questions about lists
     - .append() and empty lists
-    - Class Exercise: Hangman-esque Game
-        - Learning to plan and write
-        - Plan Major Steps
-        - Pseudo Code
-        - Start writing real code
 - Webscraper
     - Redoing [PHI Greek Epigraphy](http://epigraphy.packhum.org/) using start URL method instead of next link
     - [Florida Memory: WPA Churches](https://www.floridamemory.com/collections/churchrecords/) using recursion and element selectors
@@ -34,3 +29,8 @@ sidebar:
     - Customizing Visualizations
     - Dashboards
     - Stories
+- Class Exercise: Hangman-esque Game
+    - Learning to plan and write
+    - Plan Major Steps
+    - Pseudo Code
+    - Start writing real code
