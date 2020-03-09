@@ -31,4 +31,3 @@ sidebar:
         - `.upper()`, `.lower()`, `.isupper()`, `.islower()`, and `isX()`
         - `starswith()`, `endswith()`
         - `.join()`, `.split()`, and `.strip()`
-- Tableau (if time)

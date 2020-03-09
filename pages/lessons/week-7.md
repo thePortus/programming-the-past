@@ -15,3 +15,13 @@ sidebar:
     - Attempt to find a website with historically data, primary, or secondary sources that you think might be useful if scraped with Webscraper.io
 
 ### Lesson
+
+- Webscraper: Review Student-Found Websitess
+- Tableau (Continued)
+    - Importing Data
+    - Field Types, Dimensions, and Measures
+    - Tableau Pivot Tables
+    - Visualizations and Types
+    - Customizing Visualizations
+    - Dashboards
+    - Stories
